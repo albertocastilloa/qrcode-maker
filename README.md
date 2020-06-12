@@ -5,7 +5,7 @@ vCard-maker QR Code. Use it to give your business information to your clients
 Stop using tipical paper-made business card, instead, share your vCard using QR Code. Just read it using your phone and automatically it'll be added to your contact list
 
 # How to use it
-Just pass your personal info throught 5 variables
+Just pass your personal info through 5 variables
 n = First Name
 ln = Last Name
 e = E-mail
